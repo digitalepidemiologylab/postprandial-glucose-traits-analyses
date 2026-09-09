@@ -46,6 +46,9 @@ Variable descriptions and aggregate summary tables are in [Data/data_description
 
 ## Contacts
 
-Marouane Toumi: marouane.toumi@epfl.ch 
+Marouane Toumi: marouane.toumi@epfl.ch - [LinkedIn](https://www.linkedin.com/in/marouane-toumi)
 
-[LinkedIn](https://www.linkedin.com/in/marouane-toumi)
+## References
+
+If you use this code, please cite:
+Code archive DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22677786.svg)](https://doi.org/10.5281/zenodo.22677786)
