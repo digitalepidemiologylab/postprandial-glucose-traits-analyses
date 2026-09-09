@@ -30,7 +30,7 @@ The [MMER-XGBoost bootstrap notebook](Code/MMER_XGBoost_bootstraps.ipynb), its [
 
 ## Data
 
-The raw data are being prepared for public release. The preprocessing pipeline
+This repository does not contain the raw data, which are being prepared for public release. The preprocessing pipeline
 in `Code/Preprocessing/` documents the steps used to prepare the analysis data
 files. The analyses use three prepared inputs:
 
@@ -47,4 +47,5 @@ Variable descriptions and aggregate summary tables are in [Data/data_description
 ## Contacts
 
 Marouane Toumi: marouane.toumi@epfl.ch 
+
 [LinkedIn](https://www.linkedin.com/in/marouane-toumi)
