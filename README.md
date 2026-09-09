@@ -1,6 +1,6 @@
 # Characterizing glucose-response traits from free-living meals
 
-Analysis code accompanying **Short-term postprandial glucose monitoring reveals stable traits from noisy free-living meals**, by M. Toumi and M. Salathé, Digital Epidemiology Lab, EPFL, Lausanne, Switzerland.
+This repository contains the analyses, code, and results of the article **Short-term postprandial glucose monitoring reveals stable traits from noisy free-living meals**, by M. Toumi and M. Salathé, Digital Epidemiology Lab, EPFL, Lausanne, Switzerland.
 
 ## Repository contents
 
