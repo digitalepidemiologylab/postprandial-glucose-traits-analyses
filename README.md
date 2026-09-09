@@ -50,5 +50,4 @@ Marouane Toumi: marouane.toumi@epfl.ch - [LinkedIn](https://www.linkedin.com/in/
 
 ## References
 
-If you use this code, please cite:
 Code archive DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22677786.svg)](https://doi.org/10.5281/zenodo.22677786)
