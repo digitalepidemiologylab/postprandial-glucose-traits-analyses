@@ -1,0 +1,7 @@
+﻿Category,PPGR outcome,Dataset variable,Unit,"Free-living meals (n=50,463): Mean ± SD","Standardized A: glucose drink (n=1,766): Mean ± SD","Standardized B: white bread (n=1,465): Mean ± SD","Standardized C: white bread with butter (n=1,293): Mean ± SD"
+Postprandial glucose response,Peak postprandial glucose,max_glucose,mg/dL,116.49 ± 22.21,148.97 ± 28.96,133.01 ± 25.54,120.20 ± 20.43
+Postprandial glucose response,Time above premeal glucose,peak_duration,min,85.40 ± 37.95,109.25 ± 17.95,110.01 ± 17.34,109.17 ± 18.20
+Postprandial glucose response,Glucose at 120 minutes,end_glucose,mg/dL,98.99 ± 18.08,98.61 ± 25.01,103.68 ± 21.93,102.62 ± 19.61
+Postprandial glucose response,Positive incremental area under the glucose curve,positive_iAUC,mg·min/dL,"1,220.05 ± 1,219.97","3,470.43 ± 1,773.75","2,613.21 ± 1,402.09","1,959.21 ± 1,132.07"
+PPGR sensitivity outcomes,Peak glucose increase above baseline,delta_max_glucose,mg/dL,22.26 ± 18.79,62.05 ± 26.47,46.22 ± 21.27,33.90 ± 16.89
+PPGR sensitivity outcomes,Glucose at 120 minutes minus baseline,delta_end_glucose,mg/dL,4.76 ± 17.98,11.69 ± 23.81,16.89 ± 18.93,16.33 ± 16.19

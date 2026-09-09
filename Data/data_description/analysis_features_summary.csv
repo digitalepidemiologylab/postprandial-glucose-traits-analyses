@@ -1,0 +1,66 @@
+﻿Category,Feature group,Feature,Dataset variable,Unit,Mean ± SD,N
+Meal composition,Macronutrients,Carbohydrate,carb_eaten,g,34.48 ± 35.16,50463
+Meal composition,Macronutrients,Fat,fat_eaten,g,14.46 ± 16.85,50463
+Meal composition,Macronutrients,Protein,protein_eaten,g,12.21 ± 16.16,50463
+Meal composition,Macronutrients,Dietary fiber,fiber_eaten,g,3.79 ± 4.79,50463
+Meal composition,Energy and nutrient composition,Meal energy,energy_kcal_eaten,kcal,331.02 ± 321.26,50463
+Meal composition,Energy and nutrient composition,Meal mass,eaten_quantity_in_gram,g,284.95 ± 233.06,50463
+Meal composition,Energy and nutrient composition,Estimated net carbohydrate,estimated_net_carb_eaten,g,30.72 ± 32.23,50463
+Meal composition,Energy and nutrient composition,Estimated sugar fraction,estimated_sugar_fraction,Ratio,0.47 ± 1.14,50463
+Meal composition,Energy and nutrient composition,Alcohol,alcohol_eaten,g,0.94 ± 4.28,50463
+Meal composition,Energy and nutrient composition,Beta-carotene,beta_carotene_eaten,g,4.13e-4 ± 1.43e-3,50463
+Meal composition,Energy and nutrient composition,Calcium,calcium_eaten,g,9.46e-2 ± 1.63e-1,50463
+Meal composition,Energy and nutrient composition,Cholesterol,cholesterol_eaten,g,4.03e-2 ± 9.89e-2,50463
+Meal composition,Energy and nutrient composition,Monounsaturated fatty acids,fatty_acids_monounsaturated_eaten,g,3.42 ± 29.64,50463
+Meal composition,Energy and nutrient composition,Polyunsaturated fatty acids,fatty_acids_polyunsaturated_eaten,g,1.47 ± 7.00,50463
+Meal composition,Energy and nutrient composition,Saturated fatty acids,fatty_acids_saturated_eaten,g,5.38 ± 6.96,50463
+Meal composition,Energy and nutrient composition,Folate,folate_eaten,g,2.75e-5 ± 4.53e-5,50463
+Meal composition,Energy and nutrient composition,Iron,iron_eaten,g,1.20e-3 ± 3.23e-3,50463
+Meal composition,Energy and nutrient composition,Magnesium,magnesium_eaten,g,3.16e-2 ± 4.40e-2,50463
+Meal composition,Energy and nutrient composition,Niacin,niacin_eaten,g,1.55e-3 ± 3.10e-3,50463
+Meal composition,Energy and nutrient composition,Pantothenic acid,pantothenic_acid_eaten,g,1.56e-3 ± 1.18e-2,50463
+Meal composition,Energy and nutrient composition,Phosphorus,phosphorus_eaten,g,1.39e-1 ± 1.99e-1,50463
+Meal composition,Energy and nutrient composition,Potassium,potassium_eaten,g,3.02e-1 ± 4.02e-1,50463
+Meal composition,Energy and nutrient composition,Salt,salt_eaten,g,0.65 ± 1.71,50463
+Meal composition,Energy and nutrient composition,Sodium,sodium_eaten,g,4.22e-1 ± 7.10e-1,50463
+Meal composition,Energy and nutrient composition,Sugar,sugar_eaten,g,12.93 ± 14.55,50463
+Meal composition,Energy and nutrient composition,Vitamin B1 (thiamine),vitamin_b1_eaten,g,1.34e-3 ± 1.07e-2,50463
+Meal composition,Energy and nutrient composition,Vitamin B12 (cobalamin),vitamin_b12_eaten,g,6.98e-7 ± 3.75e-6,50463
+Meal composition,Energy and nutrient composition,Vitamin B2 (riboflavin),vitamin_b2_eaten,g,6.48e-4 ± 7.25e-3,50463
+Meal composition,Energy and nutrient composition,Vitamin B6,vitamin_b6_eaten,g,6.65e-4 ± 5.35e-3,50463
+Meal composition,Energy and nutrient composition,Vitamin C,vitamin_c_eaten,g,1.28e-2 ± 2.99e-2,50463
+Meal composition,Energy and nutrient composition,Vitamin D,vitamin_d_eaten,g,4.01e-7 ± 1.26e-6,50463
+Meal composition,Energy and nutrient composition,Zinc,zinc_eaten,g,1.14e-3 ± 2.26e-3,50463
+Meal composition,Food-group composition,"Grains, potatoes and pulses",grains_potatoes_pulses,g,47.93 ± 88.53,50463
+Meal composition,Food-group composition,"Sweets, salty snacks and alcoholic beverages",sweets_salty_snacks_alcohol,g,33.14 ± 81.02,50463
+Meal composition,Food-group composition,Non-alcoholic beverages,non_alcoholic_beverages,g,89.53 ± 143.55,50463
+Meal composition,Food-group composition,"Dairy products, meat, fish, eggs and tofu",dairy_products_meat_fish_eggs_tofu,g,53.00 ± 92.35,50463
+Meal composition,Food-group composition,Vegetables and fruit,vegetables_fruits,g,51.19 ± 94.99,50463
+Meal composition,Food-group composition,"Oils, fats and nuts",oils_fats_nuts,g,5.91 ± 17.03,50463
+Recent dietary intake,Prior nutrient and energy intake,Carbohydrate intake in the previous 1 h,prev_1hr_carb_eaten,g,9.44 ± 24.88,50463
+Recent dietary intake,Prior nutrient and energy intake,Carbohydrate intake in the previous 2 h,prev_2hr_carb_eaten,g,19.71 ± 34.29,50463
+Recent dietary intake,Prior nutrient and energy intake,Carbohydrate intake in the previous 3 h,prev_3hr_carb_eaten,g,30.92 ± 40.35,50463
+Recent dietary intake,Prior nutrient and energy intake,Carbohydrate intake in the previous 6 h,prev_6hr_carb_eaten,g,60.88 ± 53.57,50463
+Recent dietary intake,Prior nutrient and energy intake,Fat intake in the previous 1 h,prev_1hr_fat_eaten,g,4.54 ± 12.64,50463
+Recent dietary intake,Prior nutrient and energy intake,Fat intake in the previous 2 h,prev_2hr_fat_eaten,g,9.13 ± 17.29,50463
+Recent dietary intake,Prior nutrient and energy intake,Fat intake in the previous 3 h,prev_3hr_fat_eaten,g,13.50 ± 20.18,50463
+Recent dietary intake,Prior nutrient and energy intake,Fat intake in the previous 6 h,prev_6hr_fat_eaten,g,24.97 ± 25.89,50463
+Recent dietary intake,Prior nutrient and energy intake,Protein intake in the previous 1 h,prev_1hr_protein_eaten,g,4.33 ± 12.43,50463
+Recent dietary intake,Prior nutrient and energy intake,Protein intake in the previous 2 h,prev_2hr_protein_eaten,g,8.62 ± 17.17,50463
+Recent dietary intake,Prior nutrient and energy intake,Protein intake in the previous 3 h,prev_3hr_protein_eaten,g,12.44 ± 19.60,50463
+Recent dietary intake,Prior nutrient and energy intake,Protein intake in the previous 6 h,prev_6hr_protein_eaten,g,21.99 ± 23.78,50463
+Recent dietary intake,Prior nutrient and energy intake,Dietary fiber intake in the previous 1 h,prev_1hr_fiber_eaten,g,1.25 ± 3.58,50463
+Recent dietary intake,Prior nutrient and energy intake,Dietary fiber intake in the previous 2 h,prev_2hr_fiber_eaten,g,2.49 ± 4.88,50463
+Recent dietary intake,Prior nutrient and energy intake,Dietary fiber intake in the previous 3 h,prev_3hr_fiber_eaten,g,3.66 ± 5.63,50463
+Recent dietary intake,Prior nutrient and energy intake,Dietary fiber intake in the previous 6 h,prev_6hr_fiber_eaten,g,6.77 ± 7.23,50463
+Recent dietary intake,Prior nutrient and energy intake,Energy intake in the previous 1 h,prev_1hr_energy_kcal_eaten,kcal,101.43 ± 255.42,50463
+Recent dietary intake,Prior nutrient and energy intake,Energy intake in the previous 2 h,prev_2hr_energy_kcal_eaten,kcal,207.69 ± 349.59,50463
+Recent dietary intake,Prior nutrient and energy intake,Energy intake in the previous 3 h,prev_3hr_energy_kcal_eaten,kcal,312.60 ± 403.91,50463
+Recent dietary intake,Prior nutrient and energy intake,Energy intake in the previous 6 h,prev_6hr_energy_kcal_eaten,kcal,584.53 ± 512.29,50463
+Premeal glycemic state,Baseline glucose,Premeal glucose,premeal_glucose,mg/dL,94.23 ± 16.42,50463
+Premeal glycemic state,Prior glucose trends,Glucose trend over the previous 1 h,trend_glu_1,mg/dL/h,-4.61 ± 19.43,50239
+Premeal glycemic state,Prior glucose trends,Glucose trend over the previous 2 h,trend_glu_2,mg/dL/h,-1.37 ± 11.87,50275
+Premeal glycemic state,Prior glucose trends,Glucose trend over the previous 4 h,trend_glu_4,mg/dL/h,-0.09 ± 6.09,50303
+Premeal glycemic state,Prior glucose trends,Glucose trend over the previous 6 h,trend_glu_6,mg/dL/h,0.17 ± 3.95,50320
+Meal timing,Timing,Time since previous meal,time_since_last_meal,h,3.37 ± 3.73,49857
+Meal timing,Timing,Meal time of day,hours_numeric,h,13.36 ± 4.78,50463

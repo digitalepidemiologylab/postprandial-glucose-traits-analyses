@@ -1,0 +1,23 @@
+name: postprandial-glucose-traits
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+      - numpy==1.26.4
+      - pandas==2.2.3
+      - scipy==1.16.3
+      - scikit-learn==1.8.0
+      - statsmodels==0.14.6
+      - xgboost==3.2.0
+      - pingouin==0.6.1
+      - mmer==1.4.1
+      - matplotlib==3.10.9
+      - seaborn==0.13.2
+      - joblib==1.5.3
+      - tqdm==4.67.3
+      - optuna==4.8.0
+      - jupyterlab==4.5.7
+      - ipykernel==6.31.0
+      - nbconvert==7.17.1

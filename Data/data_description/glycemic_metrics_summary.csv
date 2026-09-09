@@ -1,0 +1,29 @@
+﻿Category,Metric,Dataset variable,Unit,Mean ± SD,N,Observation level
+CGM: glucose distribution,Mean glucose,mean_glucose,mg/dL,95.85 ± 10.49,992,Participant
+CGM: glucose distribution,Median glucose,median_glucose,mg/dL,93.36 ± 9.95,992,Participant
+CGM: glucose distribution,Minimum glucose,min_glucose,mg/dL,55.66 ± 11.15,992,Participant
+CGM: glucose distribution,Maximum glucose,max_glucose,mg/dL,170.62 ± 29.30,992,Participant
+CGM: glucose distribution,25th percentile of glucose,q1_glucose,mg/dL,85.65 ± 9.17,992,Participant
+CGM: glucose distribution,75th percentile of glucose,q3_glucose,mg/dL,103.69 ± 12.20,992,Participant
+CGM: glucose variability,Overall glucose SD,interdaysd,mg/dL,15.47 ± 4.96,992,Participant
+CGM: glucose variability,Overall glucose coefficient of variation,interdaycv,%,16.13 ± 3.78,992,Participant
+CGM: glucose variability,Mean daily glucose SD,intradaysd_mean,mg/dL,13.34 ± 3.60,992,Participant
+CGM: glucose variability,Median daily glucose SD,intradaysd_median,mg/dL,13.20 ± 3.63,992,Participant
+CGM: glucose variability,SD of daily glucose SDs,intradaysd_sd,mg/dL,3.77 ± 1.91,992,Participant
+CGM: glucose variability,Mean daily glucose coefficient of variation,intradaycv_mean,%,13.94 ± 2.99,992,Participant
+CGM: glucose variability,Median daily glucose coefficient of variation,intradaycv_median,%,13.78 ± 3.04,992,Participant
+CGM: glucose variability,SD of daily glucose coefficients of variation,intradaycv_sd,percentage points,3.84 ± 1.28,992,Participant
+CGM: glucose variability,Mean amplitude of glycemic excursions,MAGE,mg/dL,25.41 ± 11.50,992,Participant
+CGM: glucose variability,Mean of daily differences,MODD,mg/dL,13.89 ± 5.11,992,Participant
+CGM: glucose variability,Continuous overall net glycemic action over 24 h,CONGA24,mg/dL,9.58 ± 5.09,992,Participant
+CGM: time in range,Total time outside 70–180 mg/dL,TOR,min,"1,165.12 ± 2,090.23",992,Participant
+CGM: time in range,Total time within 70–180 mg/dL,TIR,min,"20,828.39 ± 8,026.60",992,Participant
+CGM: time in range,Percentage of readings outside 70–180 mg/dL,POR,%,5.07 ± 8.27,992,Participant
+CGM: glycemic indices,J-index,J_index,Index,12.57 ± 4.11,992,Participant
+CGM: glycemic indices,Low blood glucose index,LBGI,Index,2.21 ± 1.61,992,Participant
+CGM: glycemic indices,High blood glucose index,HBGI,Index,0.15 ± 0.65,992,Participant
+CGM: glycemic indices,Average daily risk range,ADRR,Index,10.00 ± 4.14,992,Participant
+CGM: HbA1c estimates,Glucose management indicator,GMI,%,5.60 ± 0.25,992,Participant
+CGM: HbA1c estimates,Estimated HbA1c,eA1c,%,4.97 ± 0.37,992,Participant
+Participant premeal glucose summaries,Participant mean premeal glucose,mean_premeal_glucose,mg/dL,94.12 ± 9.84,992,Participant
+Participant premeal glucose summaries,Participant SD of premeal glucose,std_premeal_glucose,mg/dL,12.82 ± 3.53,992,Participant

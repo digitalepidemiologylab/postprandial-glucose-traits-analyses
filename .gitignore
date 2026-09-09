@@ -1,0 +1,66 @@
+# Superseded code: excluded from the public repository.
+/source/
+/Source/
+
+# Prepared inputs at the Data/ root; reproducible descriptions in their own folder.
+/data/*
+/Data/*
+/Data/meal_ppgr.csv
+!/Data/meal_ppgr.zip
+!/Data/metadata.csv
+!/Data/cgm_metrics.csv
+!/Data/data_description/
+/Data/data_description/*
+!/Data/data_description/analysis_features_summary.csv
+!/Data/data_description/glycemic_metrics_summary.csv
+!/Data/data_description/ppgr_outcomes_by_meal_type.csv
+!/Data/data_description/generate_descriptions.py
+!/Data/data_description/README.md
+/Data/raw data/
+
+# Legacy data locations and individual bootstrap estimates.
+/code/Processed_data/
+/code/processed_data/
+/code/meal_ppgr_data.csv
+/code/cleaned_data.csv
+/code/bootstraps/*.npy
+/code/bootstraps/*.npz
+!/code/bootstraps/parametric_bootstrap_geometry_matrices.npz
+!/code/bootstraps/G_point.npy
+/code/bootstraps/PC_scores_bootstraps.csv
+/Results/sensitivity_analyses/outcome_selection_participant_scores.csv
+/results/sensitivity_analyses/outcome_selection_participant_scores.csv
+
+# Private working material and excluded supporting/development notebooks.
+/output/
+/tmp/
+/code/Preprocessing/
+/code/old_bootstrap_notebook/
+/code/old_06_monitoring_length_analyses/
+/code/hyperparameter_search/*
+!/code/hyperparameter_search/MMER_XGBoost_hyperparameter_search.ipynb
+/code/MMER_analyses.ipynb
+
+# Execution products, caches, local environments and secrets.
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+.Rhistory
+/requirements(1).txt
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.sqlite
+*.sqlite3
+*.db
+!/code/hyperparameter_search/mmer_optuna.db
+*.log
+executed/
+.jupyter/
+.codex/
+.agents/

@@ -1,0 +1,7 @@
+,value
+n_modelled_meals,50463.0
+n_participants,992.0
+covariance_upper_triangle_pearson_r,0.9919418966344622
+covariance_relative_frobenius_difference,0.1437694673596348
+covariance_max_abs_difference,0.02696853513486988
+top_3_pc_subspace_min_cosine,0.9476501735526274

@@ -1,0 +1,25 @@
+﻿PC,meal,outcome,n,r,p,p_adj,significant_adj
+PCFull1,glucose drink,MaxGlu,885,0.65,9.3 × 10^-109,2.2 × 10^-107,True
+PCFull1,glucose drink,Glu120,885,0.46,9.4 × 10^-48,2.8 × 10^-47,True
+PCFull1,glucose drink,iAUC,885,0.53,5.2 × 10^-65,2.1 × 10^-64,True
+PCFull1,glucose drink,PeakDuration,885,0.11,1.1 × 10^-3,1.3 × 10^-3,True
+PCFull1,white bread,MaxGlu,759,0.66,1.5 × 10^-96,1.8 × 10^-95,True
+PCFull1,white bread,Glu120,759,0.59,5.5 × 10^-73,3.3 × 10^-72,True
+PCFull1,white bread,iAUC,759,0.51,4.4 × 10^-51,1.5 × 10^-50,True
+PCFull1,white bread,PeakDuration,759,0.18,3.7 × 10^-7,6.9 × 10^-7,True
+PCFull1,white bread + butter,MaxGlu,694,0.68,9.6 × 10^-94,7.7 × 10^-93,True
+PCFull1,white bread + butter,Glu120,694,0.6,3.5 × 10^-70,1.7 × 10^-69,True
+PCFull1,white bread + butter,iAUC,694,0.51,8.7 × 10^-47,2.3 × 10^-46,True
+PCFull1,white bread + butter,PeakDuration,694,0.15,5.2 × 10^-5,8.4 × 10^-5,True
+PCFull2,glucose drink,MaxGlu,885,-0.08,1.9 × 10^-2,2.1 × 10^-2,True
+PCFull2,glucose drink,Glu120,885,-0.21,3.4 × 10^-10,8.2 × 10^-10,True
+PCFull2,glucose drink,iAUC,885,0.13,1.5 × 10^-4,2.1 × 10^-4,True
+PCFull2,glucose drink,PeakDuration,885,0.04,2.1 × 10^-1,2.1 × 10^-1,False
+PCFull2,white bread,MaxGlu,759,-0.12,6.5 × 10^-4,8.2 × 10^-4,True
+PCFull2,white bread,Glu120,759,-0.22,1.9 × 10^-9,4.2 × 10^-9,True
+PCFull2,white bread,iAUC,759,0.14,1.1 × 10^-4,1.7 × 10^-4,True
+PCFull2,white bread,PeakDuration,759,0.08,2.9 × 10^-2,3.0 × 10^-2,True
+PCFull2,white bread + butter,MaxGlu,694,-0.16,2.0 × 10^-5,3.4 × 10^-5,True
+PCFull2,white bread + butter,Glu120,694,-0.22,5.9 × 10^-9,1.2 × 10^-8,True
+PCFull2,white bread + butter,iAUC,694,0.14,2.0 × 10^-4,2.7 × 10^-4,True
+PCFull2,white bread + butter,PeakDuration,694,0.11,2.8 × 10^-3,3.2 × 10^-3,True
