@@ -1,4 +1,4 @@
-# Postprandial glucose traits: analysis code
+# Characterizing glucose-response traits from free-living meals
 
 Analysis code accompanying **Short-term postprandial glucose monitoring reveals stable traits from noisy free-living meals**, by M. Toumi and M. Salathé, Digital Epidemiology Lab, EPFL, Lausanne, Switzerland.
 
