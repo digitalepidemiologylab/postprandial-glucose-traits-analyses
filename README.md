@@ -44,6 +44,7 @@ The meal table is distributed as [Data/meal_ppgr.zip](Data/meal_ppgr.zip). The n
 
 Variable descriptions and aggregate summary tables are in [Data/data_description/](Data/data_description/README.md).
 
-## Contact
+## Contacts
 
-Marouane Toumi: marouane.toumi@epfl.ch · [LinkedIn](https://www.linkedin.com/in/marouane-toumi)
+Marouane Toumi: marouane.toumi@epfl.ch 
+[LinkedIn](https://www.linkedin.com/in/marouane-toumi)
