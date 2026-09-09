@@ -8,7 +8,7 @@ Importing this module does not read data or create any directories.
 from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
-CODE_DIR = PROJECT_ROOT / "code"
+CODE_DIR = PROJECT_ROOT / "Code"
 DATA_DIR = PROJECT_ROOT / "Data"
 
 METADATA_PATH = DATA_DIR / "metadata.csv"

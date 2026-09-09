@@ -10,7 +10,7 @@ The notebooks use three prepared inputs from the repository's `Data/` folder:
 
 The meal table is distributed as `Data/meal_ppgr.zip`. Notebooks read the ZIP
 directly when the uncompressed CSV is absent. Input paths are defined in
-`code/data_paths.py` and work from the repository root or its subfolders.
+`Code/data_paths.py` and work from the repository root or its subfolders.
 
 ## Summary tables
 
@@ -63,7 +63,7 @@ excluded `Data/raw data/` folder. The metadata loader uses `id` and
 ## Meal-level responses: `meal_ppgr.csv`
 
 This table is produced by
-`code/Preprocessing/processing_02_past_features_and_ppgr_outcomes.ipynb`, using
+`Code/Preprocessing/processing_02_past_features_and_ppgr_outcomes.ipynb`, using
 merged dietary records and CGM measurements. Each row represents a meal with
 derived response measurements and contextual features. The working table is
 upstream of the final analysis filters: its row count is therefore larger than
@@ -94,7 +94,7 @@ All nutrient amounts, including vitamins and minerals, were converted to grams
 during preprocessing. The summary tables retain these values in grams; energy
 remains in kcal.
 
-`load_and_prepare_data` in `code/utils.py` joins metadata, checks response
+`load_and_prepare_data` in `Code/utils.py` joins metadata, checks response
 quality, clips negative nutrient values, excludes meals with energy at least
 2,000 kcal, applies monitoring-date and next-meal-interval filters, and finally
 retains participants with more than 15 eligible responses. That final count
@@ -110,7 +110,7 @@ or constant response traces before constructing the analysis cohort.
 ## Participant-level summaries: `cgm_metrics.csv`
 
 This table is produced by
-`code/Preprocessing/processing_03_CGM_metrics.ipynb`. Each row summarizes a
+`Code/Preprocessing/processing_03_CGM_metrics.ipynb`. Each row summarizes a
 participant's CGM record after the preprocessing exclusion of standardized-meal
 windows. Notebook 04 joins this table to the phenotype coordinates and metadata.
 
@@ -133,7 +133,7 @@ columns. Missing metric values represent unavailable measurements, not zero.
 
 All project paths above are relative to the repository root. The preprocessing
 notebooks require private source records; the public analysis entry points are
-the numbered notebooks under `code/`.
+the numbered notebooks under `Code/`.
 
 ## Aggregate article tables
 

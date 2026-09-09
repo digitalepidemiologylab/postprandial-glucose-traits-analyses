@@ -23,15 +23,15 @@ import pandas as pd
 
 SOURCE_FILES = (
     'Data/meal_ppgr.csv', 'Data/metadata.csv', 'Data/cgm_metrics.csv',
-    'code/utils.py', 'code/04_full_model_and_characterization.ipynb',
-    'code/08_outcome_selection_sensitivity.ipynb',
+    'Code/utils.py', 'Code/04_full_model_and_characterization.ipynb',
+    'Code/08_outcome_selection_sensitivity.ipynb',
 )
 
 
 def build_tables(project_root: Path) -> dict:
     """Apply the shared eligibility filters and calculate unscaled sample means/SDs.
 
-    The loader definitions are taken directly from code/utils.py by name, so its
+    The loader definitions are taken directly from Code/utils.py by name, so its
     filtering logic is not duplicated. Only those definitions are executed; this
     avoids importing scipy/sklearn or any of the modeling functions. Notebook
     settings and feature lists are read as literals, never executed. A changed
@@ -41,7 +41,7 @@ def build_tables(project_root: Path) -> dict:
     ROOT = project_root
     def load_analysis_data():
         # Execute the unmodified shared loader without importing model dependencies.
-        tree = ast.parse((ROOT / 'code/utils.py').read_text())
+        tree = ast.parse((ROOT / 'Code/utils.py').read_text())
         names = {'SUBJECT_COL', 'DATE_COL', 'POSITIVE_FOOD_COLUMNS', 'RANDOM_SLOPES', 'OUTCOMES'}
         nodes = [n for n in tree.body if
                  (isinstance(n, ast.FunctionDef) and n.name in {'_require_input_columns', 'load_and_prepare_data'}) or
@@ -56,7 +56,7 @@ def build_tables(project_root: Path) -> dict:
 
 
     def notebook_code(notebook):
-        cells = json.loads((ROOT / 'code' / notebook).read_text(encoding='utf-8'))['cells']
+        cells = json.loads((ROOT / 'Code' / notebook).read_text(encoding='utf-8'))['cells']
         return [ast.parse(''.join(cell['source'])) for cell in cells if cell['cell_type'] == 'code']
 
 

@@ -19,27 +19,27 @@
 /Data/raw data/
 
 # Legacy data locations and individual bootstrap estimates.
-/code/Processed_data/
-/code/processed_data/
-/code/meal_ppgr_data.csv
-/code/cleaned_data.csv
-/code/bootstraps/*.npy
-/code/bootstraps/*.npz
-!/code/bootstraps/parametric_bootstrap_geometry_matrices.npz
-!/code/bootstraps/G_point.npy
-/code/bootstraps/PC_scores_bootstraps.csv
+/Code/Processed_data/
+/Code/processed_data/
+/Code/meal_ppgr_data.csv
+/Code/cleaned_data.csv
+/Code/bootstraps/*.npy
+/Code/bootstraps/*.npz
+!/Code/bootstraps/parametric_bootstrap_geometry_matrices.npz
+!/Code/bootstraps/G_point.npy
+/Code/bootstraps/PC_scores_bootstraps.csv
 /Results/sensitivity_analyses/outcome_selection_participant_scores.csv
 /results/sensitivity_analyses/outcome_selection_participant_scores.csv
 
 # Private working material and excluded supporting/development notebooks.
 /output/
 /tmp/
-/code/Preprocessing/
-/code/old_bootstrap_notebook/
-/code/old_06_monitoring_length_analyses/
-/code/hyperparameter_search/*
-!/code/hyperparameter_search/MMER_XGBoost_hyperparameter_search.ipynb
-/code/MMER_analyses.ipynb
+/Code/Preprocessing/
+/Code/old_bootstrap_notebook/
+/Code/old_06_monitoring_length_analyses/
+/Code/hyperparameter_search/*
+!/Code/hyperparameter_search/MMER_XGBoost_hyperparameter_search.ipynb
+/Code/MMER_analyses.ipynb
 
 # Execution products, caches, local environments and secrets.
 __pycache__/
@@ -58,7 +58,7 @@ venv/
 *.sqlite
 *.sqlite3
 *.db
-!/code/hyperparameter_search/mmer_optuna.db
+!/Code/hyperparameter_search/mmer_optuna.db
 *.log
 executed/
 .jupyter/
